@@ -16,6 +16,6 @@ Tic Tac Toe game for Python. CPUvsCPU (Manual version) - This verson **does** us
 This game can be used for educational purposes. 
 
 3.
-4 in a Line (unfinished) game for python. This version is currently "in develompment" as it is intended to be an exercise to practice. Some conditions for a win in this game are missing. Following the rules of the original game I challenge you to make it workk following my procedures even if those might not be the most efficient. You can send it to me if you want so I can check them on my personal e-mail: sergiomp264@gmail.com. I'd appreciate it! .
+4 in a Line (unfinished) game for python. This version is currently "in development" as it is intended to be an exercise to practice. Some conditions for a win in this game are missing. Following the rules of the original game I challenge you to make it workk following my procedures even if those might not be the most efficient. You can send it to me if you want so I can check them on my personal e-mail: sergiomp264@gmail.com. I'd appreciate it! .
 
 This exercise can be used for educational purposes. 
